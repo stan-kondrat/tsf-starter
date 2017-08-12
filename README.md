@@ -1,6 +1,6 @@
-## TSF Starter 
+## TSF Starter
 
-Starter application for TSF - TypeScript Web Framework
+Starter application for TSF - TypeScript Web Framework https://stan-kondrat.github.io/tsf
 
 ## Installing / Getting started
 
