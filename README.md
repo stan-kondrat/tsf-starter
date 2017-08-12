@@ -1,6 +1,13 @@
 ## TSF Starter 
 
-Starter application for TSF - TypeScript Web Framework
+Starter application for TSF - TypeScript Web Framework:
+
+* Webpack with typescript, babel-es2015 and style loaders 
+* Tslint
+* Npm run scripts
+* Dev server http://localhost:8080/
+* Hello world component
+
 
 ## Installing / Getting started
 
@@ -14,7 +21,7 @@ npm run serve
 
 The files are located in the `dist` folder
 ```shell
-npm build
+npm run build
 ```
 
 ## Licensing
